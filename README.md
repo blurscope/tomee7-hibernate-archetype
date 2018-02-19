@@ -2,4 +2,6 @@
 
 Usage:
 
-```mvn archetype:generate -Dfilter=com.blurscope:tomee7-hibernate-archetype```
+```
+mvn archetype:generate -Dfilter=com.blurscope:tomee7-hibernate-archetype
+```
